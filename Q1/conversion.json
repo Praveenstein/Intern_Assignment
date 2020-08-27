@@ -1,0 +1,80 @@
+{
+        "seconds": {
+            "minutes": [0.01666, 0],
+            "hours": [0.00027778, 0]
+        },
+        "minutes": {
+            "seconds": [60, 0],
+            "hours": [0.016667, 0]
+        },
+        "hours": {
+            "minutes": [60, 0],
+            "seconds": [3600, 0]
+        },
+
+        "meter": {
+            "kilometer": [0.001, 0],
+            "inch": [39.37008, 0],
+            "foot": [3.28084, 0],
+            "centimeter": [100, 0]
+        },
+        "kilometer": {
+            "meter": [1000, 0],
+            "inch": [39370.07874, 0],
+            "foot": [3280.8399, 0],
+            "centimeter": [100000, 0]
+        },
+        "inch": {
+            "meter": [0.0254, 0],
+            "kilometer": [0.0000254, 0],
+            "foot": [0.083333, 0],
+            "centimeter": [2.54, 0]
+        },
+        "foot": {
+            "meter": [0.3048, 0],
+            "kilometer": [0.0003048, 0],
+            "inch": [12, 0],
+            "centimeter": [30.48, 0]
+        },
+        "centimeter": {
+            "meter": [0.01, 0],
+            "kilometer": [0.00001, 0],
+            "inch": [0.393701, 0],
+            "foot": [0.0328084, 0]
+        },
+
+        "gram": {
+            "kilogram": [0.001, 0],
+            "milligram": [1000, 0],
+            "tonne": [0.000001, 0]
+        },
+        "kilogram": {
+            "gram": [1000, 0],
+            "milligram": [1000000, 0],
+            "tonne": [0.001, 0]
+        },
+        "milligram": {
+            "kilogram": [0.000001, 0],
+            "gram": [0.001, 0],
+            "tonne": [0.000000001, 0]
+        },
+        "tonne": {
+            "kilogram": [1000, 0],
+            "milligram": [1000000000, 0],
+            "gram": [1000000, 0]
+        },
+        "celsius": {
+            "kelvin": [1, 273.15]
+        },
+        "kelvin": {
+            "celsius": [1, -273.15]
+        },
+        "new": {
+          "one": [1,0,0]
+        },
+        "one": {
+          "new": [1,0,0,0]
+        }
+
+
+    }

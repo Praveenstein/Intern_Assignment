@@ -1,0 +1,5 @@
+2020-08-27 11:07:04 ERROR    __main__        Unit conversion not compatible
+Traceback (most recent call last):
+  File "D:/Profession/Intern/Assignments/Codes/Assignement_Codes/Part_3/Q1_unit_2_dicConfig.py", line 74, in convert
+    coef = self.conversion_data[self.unit][to_unit]
+KeyError: 'kelvin'
