@@ -1,0 +1,62 @@
+{
+  "data": "Electronics",
+    "children": [
+      {
+        "data": "Laptop",
+        "children": [
+          {
+            "data": "dell",
+            "children": [
+              {
+                "data": "Gaming",
+                "children": null
+              },
+              {
+                "data": "Personal",
+                "children": null
+              }
+            ]
+          },
+          {
+            "data": "Asus",
+            "children": [
+              {
+                "data": "Rog",
+                "children": null
+              },
+              {
+                "data": "Professional",
+                "children": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": "Mobiles",
+        "children": [
+          {
+            "data": "Iphone",
+            "children": null
+          },
+          {
+            "data": "Pixel",
+            "children": null
+          }
+        ]
+      },
+      {
+        "data": "Tv",
+        "children": [
+          {
+            "data": "Samsung",
+            "children": null
+          },
+          {
+            "data": "Sony",
+            "children": null
+          }
+        ]
+      }
+    ]
+}
